@@ -1,0 +1,6 @@
+Data Pemantauan Covid19 wilayah DKI JAKARTA
+per 23-April-2020 21:14:33
+Muhamad Dani Arfian/171011401170
+
+Positif | Dirawat | Sembuh | Meninggal
+2902 | 1769 | 206 | 257
